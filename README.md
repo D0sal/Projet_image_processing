@@ -9,9 +9,10 @@ Vous pouvez utiliser votre éditeur de code et installer les bibliothèques ou i
 ### Avant d'éxecuter notre code, assurez vous d'avoir le dossier avec les images !
 
 ## Procédure
-1. importer notre projet et les images
-2. executer chaque cellule (avec le curseur ou avec `Ctrl+Enter`)
-3. Observer les résultats
+1. importer notre noteBook
+2. importer notre dossier `Images`
+3. executer chaque cellule (avec la souris ou avec `Ctrl+Enter`)
+4. Observer les résultats
 
 ### Voici nos contacts si vous avez des questions :
 #### Nathan : oliveirada@cy-tech.fr
