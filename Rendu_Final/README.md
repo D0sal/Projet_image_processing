@@ -4,7 +4,7 @@
 Pour notre projet nous avons choisir sur un **noteBook Jupyter** avec `python`. Nous utilisons quelques bibliothèques utiles pour l'image processing comme **cv2**, **matPlotLib**, et **numpy**.
 
 
-Vous pouvez utiliser votre éditeur de code et installer les bibliothèques ou importer notre projet sur **[Collab](https://colab.research.google.com/)** 
+Vous pouvez utiliser votre éditeur de code et installer les bibliothèques ou importer notre projet sur **[Collab](https://colab.research.google.com/)** (meilleur option)
 
 ### Avant d'éxecuter notre code, assurez vous d'avoir le dossier avec les images !
 
